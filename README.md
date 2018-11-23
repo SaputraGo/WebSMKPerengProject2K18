@@ -21,6 +21,6 @@ FrontEnd : Havard university Websites
 Backend will use django
 
 #### Current Tasks
-Upload Images / icons to foldergambar
+Upload Images / icons to resourcefoto folder
 
 make the frontend
