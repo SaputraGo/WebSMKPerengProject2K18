@@ -3,9 +3,13 @@
 
 ## Current Team / Collaborators
 [Steven Humam](t.me/stevenfrst)
+
 [Usamah](t.me/Eexvuu)
+
 [Maditya](t.me/MI_Aditya)
+
 [Firassuhail](t.me/frssuhail)
+
 [muhbaharrudinzulfikar](t.me/Zulfikar003)
 
 
