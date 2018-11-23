@@ -22,4 +22,5 @@ Backend will use django
 
 #### Current Tasks
 Upload Images / icons to foldergambar
+
 make the frontend
