@@ -1,5 +1,6 @@
 ### Web SMK Muhammadiyah Kudus || Made By StemakuJdev Team
 
+a simple website using djago inspired by havard university websites
 
 # Current Team / Collaborators
 [Steven Humam](t.me/stevenfrst)
