@@ -1,7 +1,7 @@
 ### Web SMK Muhammadiyah Kudus || Made By StemakuJdev Team
 
 
-## Current Team / Collaborators
+# Current Team / Collaborators
 [Steven Humam](t.me/stevenfrst)
 
 [Usamah](http://t.me/Eexvuu)
@@ -14,10 +14,11 @@
 
 
 
-## Current Ideas
+# Current Ideas
 FrontEnd : Havard university Websites
+
 Backend will use django
 
-## Current Tasks
+# Current Tasks
 Upload Images / icons to foldergambar
 make the frontend
