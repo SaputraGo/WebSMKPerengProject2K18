@@ -2,7 +2,7 @@
 
 a simple website using djago inspired by havard university websites
 
-# Current Team / Collaborators
+#### Current Team / Collaborators
 [Steven Humam](t.me/stevenfrst)
 
 [Usamah](http://t.me/Eexvuu)
@@ -15,11 +15,11 @@ a simple website using djago inspired by havard university websites
 
 
 
-# Current Ideas
+#### Current Ideas
 FrontEnd : Havard university Websites
 
 Backend will use django
 
-# Current Tasks
+#### Current Tasks
 Upload Images / icons to foldergambar
 make the frontend
